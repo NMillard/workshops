@@ -1,6 +1,22 @@
 /* Data Manipulation Language (DML)
  * --------------------------------
- * How to extract data from databases.
+ * How to extract data from databases
+ * 
+ * SQL SELECT statement is written as
+ *	SELECT
+ *	FROM
+ *	WHERE
+ *	GROUP BY
+ *	ORDER BY
+ *	LIMIT
+ * 
+ * SQL Logical Execution order is
+ *	FROM
+ *	WHERE
+ *	GROUP BY
+ *	SELECT
+ *	ORDER BY
+ *	LIMIT
  */
 
  USE Workshop;
