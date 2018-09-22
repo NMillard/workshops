@@ -1,4 +1,4 @@
-namespace WebApplication1.Domains.Questionnaire {
+namespace SimpleCodeFirst.Domains.Questionnaire {
     
     public class Reply {
 

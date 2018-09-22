@@ -1,6 +1,6 @@
-using WebApplication1.Domains.Questionnaire;
+using SimpleCodeFirst.Domains.Questionnaire;
 
-namespace WebApplication1.Data.Repositories.Interfaces {
+namespace SimpleCodeFirst.Data.Repositories.Interfaces {
     
     public interface IQuestionnaireRepository {
         

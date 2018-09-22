@@ -1,7 +1,7 @@
-using WebApplication1.Data.Repositories.Interfaces;
-using WebApplication1.Domains.Questionnaire;
+using SimpleCodeFirst.Data.Repositories.Interfaces;
+using SimpleCodeFirst.Domains.Questionnaire;
 
-namespace WebApplication1.Data.Repositories {
+namespace SimpleCodeFirst.Data.Repositories {
     
     public class SqlQuestionnaireRepository : IQuestionnaireRepository {
         private readonly AppDbContext _context;

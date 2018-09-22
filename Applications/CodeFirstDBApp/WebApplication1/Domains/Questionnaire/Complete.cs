@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace WebApplication1.Domains.Questionnaire {
+namespace SimpleCodeFirst.Domains.Questionnaire {
     
     public class Complete {
         

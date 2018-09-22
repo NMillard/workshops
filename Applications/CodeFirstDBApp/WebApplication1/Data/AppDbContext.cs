@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using WebApplication1.Domains.Questionnaire;
+using SimpleCodeFirst.Domains.Questionnaire;
 
-namespace WebApplication1.Data {
+namespace SimpleCodeFirst.Data {
     
     public class AppDbContext : DbContext {
 

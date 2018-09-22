@@ -4,9 +4,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using WebApplication1.Data;
+using SimpleCodeFirst.Data;
 
-namespace WebApplication1 {
+namespace SimpleCodeFirst {
     
     public class Startup {
         
