@@ -1,0 +1,18 @@
+[
+        {
+            "Username": "Kim Hansen",
+            "IsActive": 1
+        },
+        {
+            "Username": "Paul Larsen",
+            "IsActive": 1
+        },
+        {
+            "Username": "Hulk Hob",
+            "IsActive": 1
+        },
+        {
+            "Username": "Little Joe",
+            "IsActive": 1
+        }
+]
