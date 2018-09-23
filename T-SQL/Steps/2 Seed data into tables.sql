@@ -1,4 +1,6 @@
- 
+ USE Workshop;
+ GO
+
  /* Seeding data into tables
   * ------------------------------------------
   * 
