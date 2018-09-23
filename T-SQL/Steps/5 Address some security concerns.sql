@@ -23,7 +23,7 @@
    CREATE VIEW secure.user_overview
    AS
 	   SELECT Username, Firstname, Lastname
-	   FROM Users;
+	   FROM dbo.Users;
    GO
 
    -- Grant SELECT permission on everything on the 'secure' schema

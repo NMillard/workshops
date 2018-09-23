@@ -1,7 +1,7 @@
   USE Workshop;
   GO
 
-  /* Create procedures
+  /* Create stored procedures
    * ------------------
    */
 
